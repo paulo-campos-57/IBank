@@ -1,4 +1,4 @@
-package BankProject;
+package IBank;
 
 public class Cliente {
 	
